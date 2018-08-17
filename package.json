@@ -1,5 +1,5 @@
 {
-  "name": "robotfriends",
+  "name": "doctorwhos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +16,7 @@
     "scss": "^0.2.4",
     "slick-carousel": "^1.8.1",
     "tachyons": "^4.9.1",
+    "url-parse": "^1.4.3",
     "webpack": "^3.11.0"
   },
   "scripts": {
